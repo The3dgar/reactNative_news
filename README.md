@@ -2,7 +2,6 @@
 
 ### Este es un proyecto de ejemplo utilizando principios básicos de desarrollo móvil con expo y elementos de react-native
 ### Configuracion: 
-  - backend: strapi 👍
   - webView: expo-web-browser
 
 Snaps:
@@ -11,8 +10,8 @@ Snaps:
 
 ![HomeScreen](./assets/home.jpeg)
 
-2. New in web view:
+2. News in web view:
 
 ![HomeScreen](./assets/new.jpeg)
 
-E.O
+This examples are part from the [React Native: Crea aplicaciones móviles reales iOS y Android](https://www.udemy.com/course/react-native-crea-aplicaciones-moviles-reales-ios-y-android) course
